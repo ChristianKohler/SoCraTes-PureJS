@@ -1,7 +1,7 @@
 {
-  "name": "Socrates-PureJS",
+  "name": "scz-vanilla",
   "version": "1.0.0",
-  "description": "SoCraTes-PureJS",
+  "description": "scz-vanilla",
   "main": "app/app.js",
   "scripts": {
     "start": "parallelshell \"npm run serve\" \"npm run mockedBackend\"",
